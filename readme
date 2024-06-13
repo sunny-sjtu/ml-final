@@ -1,1 +1,9 @@
 source code for cs3308 final prj
+
+For task1 and task2, see source code in corresponding directory.
+
+Details incuding data, code and results for task1, please get them from jbox https://jbox.sjtu.edu.cn/l/P1Oglm 
+
+For task3, we uses API from GPT4o, Gemini 1.5 pro, Qwen-max and LLaMa3.
+
+The tested instructions for task3, please check them in our report.
